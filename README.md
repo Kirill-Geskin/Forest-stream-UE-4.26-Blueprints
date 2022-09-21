@@ -55,7 +55,9 @@ As a result of a water material instance, you can adjust the physical characteri
 To create terrain textures to reduce performance overhead. Card packaging was used (AO, Albedo, Cavity, Displacement, Rougness, Normal) Substance Designer was used for this. Next comes unpacking inside UE
 
 Packing landscape texture in Substance Designer
+
  ![Packing](https://github.com/Kirill-Geskin/IMG/blob/main/2022-09-20%20(9).png)
 
 Unpacking landscape texture in UE
+
  ![Unpacking](https://github.com/Kirill-Geskin/IMG/blob/main/2022-09-20%20(8).png)
