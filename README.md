@@ -8,6 +8,12 @@ The projects use assets from Megascan and the Epic Store.
 Water shaders, water effect decals (moisture and caustics) and terrain surface shaders are a standalone work.
 The main logic of their work is in the screenshots below.
 
+## Cinematic 
+
+Short demonstration of the result
+
+https://user-images.githubusercontent.com/80645926/191496944-9a71d2d6-9b66-4d55-a2b6-6f3b25d762fe.mp4
+
 ## Materials
 
 ### Water material and decals
